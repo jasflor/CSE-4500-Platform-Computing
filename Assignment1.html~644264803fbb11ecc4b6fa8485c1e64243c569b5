@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" type="text/css" href="Assignment1.css">
+   <style>
+        ul {
+            font-family:'Courier New', Courier, monospace; 
+            color: #2B35AF;
+            font-weight: bold;
+        }
+        ul li {
+            border: 1px solid #088F8F; 
+            padding: 6px; 
+            margin: 3px;
+        }
+    </style>
+</head>
+<body>
+    <style>
+        h1{
+        background-color: rgb(0, 150, 255);
+        }
+    </style>
+
+    <h1>About Me</h1>
+    <h3>Introduction</h3>
+    <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hi, my name is Jasmin and I am a second year student here at CSUSB.
+         I am currently pursuing my B.S. in Computer Science.
+        </p>
+    <h3>A hobby of mine</h3>
+    <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">One of my favorite things to do is read. I just finished my first book of 2024, it was
+         Slaughterhous-Five, or The Children's Crusade: A Duty-Dance with Death, by Kurt Vonnegut. The title next on my list is Invincible Compendium Volume 1 by Robert Kirkman and Ryan Ottley. 
+         I am currently on page 518 and can't wait to keep reading. It is an engrossing read thus far. &#128525; &#128218;
+        </p>
+    <h3>One more hobby</h3>
+    <p style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Another one of my hobbies is cooking and baking. The latest meal I made was kung pao chicken, chow mein,
+         and shrimp fried rice. I served the plate with steamed broccoli as well, it was delightful. And the latest dessert I made was crème brûlée. I love crème brûlée so much, I make it often. 
+         But the last time I made it I could not find my torch so I used a hot spoon to melt the sugar onto the custard and it worked quite well actually. I was pleasantly surprised. &#128523; 
+       </p>
+    <h2>List of some of my favorites</h2>
+    <ul>
+        <li>Icecream: Chocolate</li>
+        <li>Color: Blue &#128153;</li>
+        <li>Book: Fight Club</li>
+        <li>Song: Lovelier Girl by Beach House</li>
+        <li>Movie: Luca</li>
+    </ul>
+
+    <div>
+        <img src="crèmebrûlée.jpg" alt="Crème brûlée">
+    </div>
+
+    <div>
+    <p>Here is a link that directs you to my main Github account: <a href="https://github.com/jasflor">Jasmin's Main Github account</a></p>
+    </div>
+
+    <p style="font-size:30px"> &#128512; &#128151; &#128512; &#128151; </p>

@@ -1,0 +1,10 @@
+ul {
+    font-family:'Courier New', Courier, monospace; 
+    color: #2B35AF;
+    font-weight: bold;
+}
+ul li {
+    border: 1px solid #088F8F; 
+    padding: 6px; 
+    margin: 3px;
+}

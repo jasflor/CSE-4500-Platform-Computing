@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="![alt text](<../OneDrive/Desktop/CSE4500/Screenshot 2024-02-14 230308.png>)" alt="Screenshot">
-<img src="![alt text](<../OneDrive/Desktop/CSE4500/Screenshot 2024-02-14 230335.png>)" alt="Screenhot">
+<img src="Images/Page1.png" alt="Screenshot">
+<img src="Images/Page2.png" alt="Screenhot">
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text

@@ -28,11 +28,14 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+ul {
+  font-family:'Courier New', Courier, monospace; 
+  color: #2B35AF;
+  font-weight: bold;
+}
+ul li {
+  border: 1px solid #088F8F; 
+  padding: 6px; 
+  margin: 2px;
 }

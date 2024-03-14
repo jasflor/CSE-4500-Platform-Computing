@@ -22,8 +22,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
+<img src="Images/About_Me_on_React_First.png" alt="Screenshot">
+<img src="Images/About_Me_on_React_Second.png" alt="Screenshot">
+<img src="Images/selenium_tutorial_output.png" alt="Screenshot">
+<img src="Images/metric_tracker_output.png" alt="Screenshot">
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text

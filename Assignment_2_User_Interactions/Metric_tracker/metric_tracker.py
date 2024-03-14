@@ -8,10 +8,8 @@ def main():
     # Navigate to my page 
     driver.get("http://localhost:3000/")
 
-    # Get my page title
+    # Get my page title & print
     page_title = driver.title
-
-    # Print my title
     print("Page Title:", page_title)
 
     metrics = []

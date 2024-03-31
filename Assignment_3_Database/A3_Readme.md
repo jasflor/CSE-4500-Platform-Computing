@@ -11,7 +11,7 @@ The following **required** features are completed:
 - [X] Organize Github projects for Assignment 3 (2 pts)
 - [X] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
 - [X] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
-- [ ] Choose a SQL or NoSQL Database and set up a server (4 pts)
+- [X] Choose a SQL or NoSQL Database and set up a server (4 pts)
 - [ ] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
 
 The following **bonus** features are implemented:

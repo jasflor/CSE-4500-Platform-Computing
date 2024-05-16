@@ -10,7 +10,7 @@ def main():
     driver.get("http://localhost:3000/")
     reward_time = 10
     total_reward_time = 0
-    emoticons = ["😍"]
+    emoticons = ["&#128151"]
     for emoticon in emoticons:
         if findEmoticon(driver, emoticon):
             total_reward_time += reward_time

@@ -27,11 +27,9 @@ def click_link(driver, href, reward_time):
             link.click()
             link_found = True
             break
-    if not link_found:
-        print(f"Link with href='{href}' not found.")
 
 def userAction(action, driver, reward_time, req_list)->float:
-    total_reward_time = 0
+    total_reward_time = 10
     if action.upper() == "KEYWORD":
         for keyword in req_list:
             if findWord(driver, keyword):
@@ -59,6 +57,13 @@ def userAction(action, driver, reward_time, req_list)->float:
 
     return total_reward_time
 
+def userAction(driver):
+    reward_time = 0
+    keyword = ["cooking", "reading"]
+    keyword = ["cooking", "reading"]
+
+    time.sleep(reward_time)
+    time.sleep(reward_time)
 
 def main():
     driver = webdriver.Chrome()
@@ -70,14 +75,14 @@ def main():
     tag_name = ["img"]
     total_reward_time += userAction("IMAGE", driver, reward_time, tag_name)
 
-    emoticons = ["📚"]
+    emoticons = ["&#128218"]
     total_reward_time += userAction("EMOTICON", driver, reward_time, emoticons)
 
     links = ["https://github.com/jasflor"]
     total_reward_time += userAction("LINK", driver, reward_time, links)
 
     click_link(driver, "https://github.com/jasflor", reward_time)
-    
+
     print("Presence Time:", total_reward_time)
 
 if __name__== "__main__":
